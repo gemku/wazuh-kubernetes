@@ -129,7 +129,7 @@ spec:
       spec:
         accessModes:
           - ReadWriteOnce
-        storageClassName: wazuh-storage
+        storageClassName: wazuhs
         resources:
           requests:
             storage: 500Mi
